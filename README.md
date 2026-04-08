@@ -11,4 +11,6 @@ _______________________________________
 ClickUp List Link: https://sharing.clickup.com/90182591058/l/h/6-901817168123-1/72698e4b9e337ba
 _______________________________________
 Task is assigend through Google Form:
+
 <img width="516" height="416" alt="form" src="https://github.com/user-attachments/assets/4549681f-44a2-4391-b883-cae67920354f" />
+_______________________________________
