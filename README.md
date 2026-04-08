@@ -13,4 +13,13 @@ _______________________________________
 Task is assigend through Google Form:
 
 <img width="516" height="416" alt="form" src="https://github.com/user-attachments/assets/4549681f-44a2-4391-b883-cae67920354f" />
+
 _______________________________________
+Zapier collects form data and maps it into ClickUp:
+
+<img width="362" height="300" alt="zapier" src="https://github.com/user-attachments/assets/13af3f6f-4439-4979-9601-6f7787c57eec" />
+
+<img width="767" height="218" alt="ClickUp 1" src="https://github.com/user-attachments/assets/b962a1e8-652e-42ea-b59d-bdcf4b504127" />
+
+_______________________________________
+
